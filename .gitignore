@@ -1,0 +1,10 @@
+# Node.js modules
+node_modules/
+
+# Yarn file
+yarn.lock
+
+# URLs list
+list.txt
+url.txt
+urls.txt
