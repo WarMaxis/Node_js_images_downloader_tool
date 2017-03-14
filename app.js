@@ -6,8 +6,7 @@ const fs = require('fs'),
     progress = require('request-progress'),
     imagemin = require('imagemin'),
     imageminMozjpeg = require('imagemin-mozjpeg'),
-    imageminPngquant = require('imagemin-pngquant'),
-    prompt = require('prompt');
+    imageminPngquant = require('imagemin-pngquant');
 
 // Console text colors
 const fontColors = {
