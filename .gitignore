@@ -8,3 +8,9 @@ yarn.lock
 list.txt
 url.txt
 urls.txt
+
+# All images
+*.jpg
+*.jpeg
+*.png
+*.gif
