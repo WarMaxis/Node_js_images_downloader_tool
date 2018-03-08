@@ -18,12 +18,12 @@ http://www.anotherexamplesite.pl/test2/people.png
 
 3. Install dependencies
 ```bash
-npm install
+$ npm install
 ```
 
 4. Run script
 ```bash
-npm start
+$ npm start
 ```
 
 5. Script will create new directory, where images will be downloaded.
