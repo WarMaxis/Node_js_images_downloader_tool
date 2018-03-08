@@ -1,7 +1,7 @@
 # Node.js images downloader tool
 Simple Node.js tool for download and compress images from current URLs list in .txt file.
 
-Created by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__
+Created by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__.
 
 ## Functions:
 * download images from URLs list in .txt file
